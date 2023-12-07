@@ -31,4 +31,4 @@
 <p align='center'>
 **Visitors Count** 
 
-![VisitorCount](https://profile-counter.glitch.me/{yegnesh-github}/count.svg) </div></p>
+![VisitorCount](https://profile-counter.glitch.me/{yegnesh-github}/count.svg)</p>
