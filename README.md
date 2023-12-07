@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
   &nbsp;
  </p>
-
+<br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yegnesh-github&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
