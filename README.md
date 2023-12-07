@@ -19,6 +19,20 @@
   
 </p>
 
+𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
+
+
+<p  align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  &nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>  
+  &nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25"/>  
+  &nbsp;
+ </p>
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=yegnesh-github&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
