@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/rzashakeri/Yegneshwaran/main/intro.gif" alt="👋 Hi there! I'm Yegneshwaran" title="👋 Hi there! I'm Yegneshwaran"/>
+alt="👋 Hi there! I'm Yegneshwaran" title="👋 Hi there! I'm Yegneshwaran"
 
 
 
