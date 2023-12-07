@@ -1,13 +1,11 @@
 <h1 align='center'>
   Hi there 👋 I'm Yegneshwaran 👨‍💻
 </h1>
-
+<br><br>
 <p align='center'>
   Engineering Graduate🔹Student🔹Fresher
 </p>
-
-
-
+<br><br>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/yegneshwaran-babu-29a4ba255/">
@@ -18,7 +16,7 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
+<br><br>
 𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
 
 
