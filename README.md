@@ -27,7 +27,7 @@
 
 <p align='center'>
   <br>
-  📫 How to reach me: <a href='mailto:yegneshwaran2002@gmail.com'>📩</a>
+  <a href='mailto:yegneshwaran2002@gmail.com'>contact me 👉📩</a>
       
 </p>
 <div align='center'>
