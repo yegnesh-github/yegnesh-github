@@ -16,8 +16,10 @@
   </a>&nbsp;&nbsp;
   
 </p>
-<br><br>
-<p  align="center">𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:</p>
+<br>
+<p  align="center">
+  𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
+</p>
 
 <br>
 <p  align="center">
