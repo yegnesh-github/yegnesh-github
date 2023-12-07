@@ -26,7 +26,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:alexandreslima@outlook.com'>alexandreslima@outlook.com</a>
+  📫 How to reach me: <a href='mailto:yegneshwaran2002@gmail.com'>yegneshwaran2002@gmail.com</a>
 </p>
 
 **Visitors Count** 
