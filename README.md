@@ -1,11 +1,11 @@
 <h1 align='center'>
   Hi there 👋 I'm Yegneshwaran 👨‍💻
 </h1>
-<br><br>
+<br>
 <p align='center'>
   Engineering Graduate🔹Student🔹Fresher
 </p>
-<br><br>
+<br>
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/yegneshwaran-babu-29a4ba255/">
@@ -17,9 +17,9 @@
   
 </p>
 <br><br>
-𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:
+<p  align="center">𝐒𝐭𝐚𝐜𝐤𝐬 𝐈 𝐰𝐨𝐫𝐤 𝐰𝐢𝐭𝐡:</p>
 
-
+<br>
 <p  align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   &nbsp;
