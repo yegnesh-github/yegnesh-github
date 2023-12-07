@@ -5,17 +5,17 @@
 </h1>
 
 <p align='center'>
-  Engineering Graduate
+  Engineering Graduate🔹Student🔹Fresher
 </p>
 
 
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/alexandresanlim/">
+  <a href="https://www.linkedin.com/in/yegneshwaran-babu-29a4ba255/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/alexandresanlim">
+  <a href="https://www.instagram.com/mr_black_heart_253/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
