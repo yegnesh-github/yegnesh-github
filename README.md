@@ -28,6 +28,10 @@
 <p align='center'>
   <br>
   📫 How to reach me: <a href='mailto:yegneshwaran2002@gmail.com'>yegneshwaran2002@gmail.com</a>
+
+  <h2 class="title">Let's Connect together!</h2>
+			   <a class="button button-primary large" href="mailto:vetrim2003@gmail.com">Contact me!</a>
+      
 </p>
 <div align='center'>
   
