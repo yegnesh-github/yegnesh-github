@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p align='center'>
-  Engineering Graduate🔹Student🔹Fresher
+ 🔹 Engineering Graduate🔹Fresher
 </p>
 <br>
 <p align='center'>
